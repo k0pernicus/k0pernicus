@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🧑🏻‍💻 I work at [Tadaweb](https://www.tadaweb.com) as a **Machine Learning** and **Core engineer**.
+🧑🏻‍💻 I work at [Tadaweb](https://www.tadaweb.com) as a **machine learning** and **back-end engineer**.
 
 🔭 I've written a bunch of **Rust**, **Go**, **Python** or **C** tools that you can look for, here.
 
