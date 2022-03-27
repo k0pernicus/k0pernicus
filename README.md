@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🧑🏻‍💻 I am a game developer, former AI/ML engineer & senior backend developer, working with **C/C**, **Rust**, and **Swift**.
+🧑🏻‍💻 I am a game developer, former AI/ML engineer & senior backend developer, working with **C/C++**, **Rust**, and **Swift**.
 
 🤝 I contribute(d) to **free** and **open-source** projects like [ar-OS](https://github.com/ar-OS), [redox-OS](https://gitlab.redox-os.org/redox-os/redox/) or [cargo-generate](https://github.com/ashleygwilliams/cargo-generate/).
 
