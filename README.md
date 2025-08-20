@@ -24,6 +24,11 @@ k0pernicus@github:~$ cat ./current_focus.txt
 k0pernicus@github:~$ curl https://carette.xyz/posts/ | head -n 3
 
 <!-- BLOG-POST-LIST:START -->
+- [About me](/about/)
+- [Projects and Publications](/projects_publications/)
+- [The skill of the future is not &#39;AI&#39;, but &#39;Focus&#39;](/posts/focus_will_be_the_skill_of_the_future/)
+- [The Paradoxical Disconnection of Silicon Valley](/posts/the_paradoxical_disconnection_of_silicon_valley/)
+- [The AI boredom](/posts/the_ai_boredom/)
 <!-- BLOG-POST-LIST:END -->
 
 k0pernicus@github:~$ ▋
