@@ -8,13 +8,13 @@ k0pernicus@github:~$ whoami
 
 k0pernicus@github:~$ cat ./social.txt
 
-> linkedin: "[https://linkedin.com/in/antonin-carette](https://linkedin.com/in/antonin-carette)"
-> blog: "[https://carette.xyz](https://carette.xyz)" # 👈 Update with your blog URL
+> linkedin: https://linkedin.com/in/antonin-carette
+> blog: https://carette.xyz
 
 k0pernicus@github:~$ ls -l ./projects
 
--rwxrw-r-- 1 k0pernicus dev 🚀 zou               # Blazing fast download accelerator in Rust
--rwxrw-r-- 1 k0pernicus dev 🎨 opengl-explorer   # Sandbox for modern OpenGL in C++
+-rwxrw-r-- 1 k0pernicus dev 🚀 zou                    # Blazing fast download accelerator in Rust
+-rwxrw-r-- 1 k0pernicus dev 🎨 opengl-explorer        # Sandbox for modern OpenGL in C++
 -rwxrw-r-- 1 k0pernicus dev 🦀 redox-os-contributions # My work on the Redox OS kernel
 
 k0pernicus@github:~$ cat ./current_focus.txt
