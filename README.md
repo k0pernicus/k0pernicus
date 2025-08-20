@@ -1,30 +1,17 @@
-```bash
-k0pernicus@github:~$ whoami
+<div style="background-color: #282c34; border-radius: 8px; padding: 20px; font-family: 'Courier New', Courier, monospace; color: #abb2bf;">
+  <pre style="margin: 0; white-space: pre-wrap;"><code><span style="color: #61afef;">k0pernicus@github:~$</span> whoami
 
-> name: "Antonin Carette"
-> title: "Senior Software Engineer"
-> location: "Grand Est, France"
-> specialties: ["C++", "Rust", "Go", "Python", "Game Engines", "Machine Learning", "FOSS"]
+<span style="color: #98c379;">&gt;</span> name: "Antonin Carette"
+<span style="color: #98c379;">&gt;</span> title: "Senior Software Engineer"
+<span style="color: #98c379;">&gt;</span> specialties:  ["C++", "Rust", "Go", "Python", "Game Engines", "Machine Learning", "FOSS"]
 
-k0pernicus@github:~$ cat ./social.txt
+<span style="color: #61afef;">k0pernicus@github:~$</span> cat social.txt
+<span style="color: #98c379;">&gt;</span> linkedin: "<a href="https://linkedin.com/in/antonin-carette" target="_blank" style="color: #c678dd; text-decoration: underline;">https://linkedin.com/in/antonin-carette</a>"
+<span style="color: #98c379;">&gt;</span> blog:     "<a href="https://carette.xyz" target="_blank" style="color: #c678dd; text-decoration: underline;">https://carette.xyz</a>"
 
-> linkedin: https://linkedin.com/in/antonin-carette
-> blog: https://carette.xyz
-
-k0pernicus@github:~$ ls -l ./projects
-
--rwxrw-r-- 1 k0pernicus dev 🚀 zou                    # Blazing fast download accelerator in Rust
--rwxrw-r-- 1 k0pernicus dev 🎨 opengl-explorer        # Sandbox for modern OpenGL in C++
--rwxrw-r-- 1 k0pernicus dev 🦀 redox-os-contributions # My work on the Redox OS kernel
-
-k0pernicus@github:~$ cat ./current_focus.txt
-
-> 🧠 Learning new things.
-
-k0pernicus@github:~$ curl https://carette.xyz/posts/ | head -n 3
-
+<span style="color: #61afef;">k0pernicus@github:~$</span> curl https://carette.xyz/posts/ | head -n 3
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-k0pernicus@github:~$ ▋
-```
+<span style="color: #61afef;">k0pernicus@github:~$</span> <span style="animation: blink 1s step-end infinite;">▋</span></code></pre>
+</div>
