@@ -1,9 +1,30 @@
-### Hello 🌎
+```bash
+k0pernicus@github:~$ whoami
 
-🧑🏻‍💻 I am a senior software developer (+8y), working on game engines & AI/ML, with **C/C++**, **Python**, **Swift** and **Rust**.
+> name: "Antonin Carette"
+> title: "Senior Software Engineer"
+> location: "Grand Est, France"
+> specialties: ["C++", "Rust", "Go", "Python", "Game Engines", "Machine Learning", "FOSS"]
 
-🤝 I contribute(d) to **free** and **open-source** projects like [FirefoxOS Powertools](https://github.com/k0pernicus/fxos-powertool), [ar-OS](https://github.com/ar-OS), [redox-OS](https://gitlab.redox-os.org/redox-os/redox/), [cargo-generate](https://github.com/ashleygwilliams/cargo-generate/), or some [SOMCA](https://github.com/SOMCA) products.
+k0pernicus@github:~$ cat ./social.txt
 
-👾 I am working on my own graphics renderer.
+> linkedin: "[https://linkedin.com/in/antonin-carette](https://linkedin.com/in/antonin-carette)"
+> blog: "[https://carette.xyz](https://carette.xyz)" # 👈 Update with your blog URL
 
-📝 I have a blog [here](https://www.carette.xyz).
+k0pernicus@github:~$ ls -l ./projects
+
+-rwxrw-r-- 1 k0pernicus dev 🚀 zou               # Blazing fast download accelerator in Rust
+-rwxrw-r-- 1 k0pernicus dev 🎨 opengl-explorer   # Sandbox for modern OpenGL in C++
+-rwxrw-r-- 1 k0pernicus dev 🦀 redox-os-contributions # My work on the Redox OS kernel
+
+k0pernicus@github:~$ cat ./current_focus.txt
+
+> 🧠 Learning new things.
+
+k0pernicus@github:~$ curl https://carette.xyz/posts/ | head -n 3
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+k0pernicus@github:~$ ▋
+```
