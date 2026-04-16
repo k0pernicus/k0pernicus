@@ -2,7 +2,7 @@
   <pre style="margin: 0; white-space: pre-wrap;"><code><span style="color: #61afef;">k0pernicus@github:~$</span> whoami
 
 <span style="color: #98c379;">&gt;</span> name: "Antonin Carette"
-<span style="color: #98c379;">&gt;</span> title: "Senior Software Engineer"
+<span style="color: #98c379;">&gt;</span> title: "Senior Software and ML Engineer"
 <span style="color: #98c379;">&gt;</span> programming:  ["C++", "Rust", "Go", "Swift"]
 <span style="color: #98c379;">&gt;</span> interests:  ["Low-Level Programming", "(Solving) Puzzles", "Machine Learning", "Photography", "Movies", "(Hard-Science) Books"]
 
